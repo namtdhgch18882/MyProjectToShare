@@ -1,2 +1,5 @@
 Hi
 I am new to git!
+
+I updated this file by myself
+sample update
